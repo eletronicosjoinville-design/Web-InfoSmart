@@ -19,4 +19,4 @@ const app = initializeApp(firebaseConfig);
 // Exporta os serviços para usar no resto do site
 export const auth = getAuth(app);
 export const db = getFirestore(app);
-export default app;
+export default app; kakaka
