@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC73c7j6TTXfXQp0paBy-PyEAXbkhw80ow",
+  apiKey: "AIzaSyC73c7j6TTXfXQp0paBy-PyEAXbkhw80ow", // Verifique cada letra aqui
   authDomain: "project--infosmart.firebaseapp.com",
   databaseURL: "https://project--infosmart-default-rtdb.firebaseio.com",
   projectId: "project--infosmart",
